@@ -1,0 +1,8 @@
+
+4. ID: 2001221 | Nombre: 1221 Amor (1932 EA1)
+5. ID: 2001566 | Nombre: 1566 Icarus (1949 MA)
+6. ID: 2001580 | Nombre: 1580 Betulia (1950 KA)
+7. ID: 2001620 | Nombre: 1620 Geographos (1951 RA)
+8. ID: 2001627 | Nombre: 1627 Ivar (1929 SH)
+9. ID: 2001685 | Nombre: 1685 Toro (1948 OA)
+10. ID: 2001862 | Nombre: 1862 Apollo (1932 HA)

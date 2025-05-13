@@ -1,0 +1,4 @@
+NOMBRE --> 1566 Icarus (1949 MA).
+ID --> 2001566.
+MAGNITUD_ABSOLUTA_H --> 16.55.
+DIÁMETRO_ESTIMADO --> {'estimated_diameter_min': 1.3018321019, 'estimated_diameter_max': 2.9109850751}.
